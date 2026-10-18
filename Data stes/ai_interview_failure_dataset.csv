@@ -1,0 +1,301 @@
+Candidate,Role,Score,Emotion,Result,Failure_Reason
+Sharon Smith MD,Data Scientist,54.95,Nervous,Fail,Poor Communication
+Kristen Hanna,ML Engineer,54.67,Happy,Fail,Lack of Technical Knowledge
+Antonio Young,Data Scientist,63.67,Confident,Pass,None
+Cynthia Miller,ML Engineer,67.87,Confident,Pass,None
+Bobby Jennings,Data Scientist,74.84,Happy,Pass,None
+David Morse,Python Developer,47.83,Stressed,Fail,Time Management Issue
+Tammy Franco,Data Scientist,59.84,Nervous,Fail,Time Management Issue
+Kevin Arnold,Data Scientist,71.85,Neutral,Pass,None
+Rose Fields,Data Scientist,31.15,Nervous,Fail,Poor Communication
+Brian Payne,Python Developer,74.69,Confident,Pass,None
+Alice Delgado,Python Developer,89.63,Neutral,Pass,None
+Kimberly Brown,Python Developer,83.97,Stressed,Pass,None
+Connie Dickerson,ML Engineer,43.94,Confident,Fail,Lack of Technical Knowledge
+Ronald Kelley,Data Analyst,55.24,Neutral,Fail,Poor Communication
+Robert Leach,ML Engineer,84.2,Confident,Pass,None
+Alex Rosales,ML Engineer,47.07,Happy,Fail,Lack of Technical Knowledge
+Mrs. Heidi Davis,Data Analyst,38.05,Neutral,Fail,Poor Communication
+Charles Kirby,Data Scientist,89.19,Neutral,Pass,None
+Robert Barnes,Python Developer,36.08,Stressed,Fail,Lack of Technical Knowledge
+Robert Gomez,ML Engineer,70.01,Happy,Pass,None
+Bridget Davis,Python Developer,45.31,Stressed,Fail,Time Management Issue
+Caroline Fitzpatrick,Data Analyst,48.23,Nervous,Fail,Lack of Technical Knowledge
+Leslie Perez,Python Developer,79.18,Neutral,Pass,None
+Tammy Cunningham,ML Engineer,32.4,Confident,Fail,Time Management Issue
+Crystal Schwartz,ML Engineer,31.88,Neutral,Fail,Low Confidence
+Bethany Watson,Python Developer,43.46,Nervous,Fail,Poor Communication
+Tabitha Hughes,Data Scientist,82.83,Happy,Pass,None
+Christopher Christensen,ML Engineer,52.56,Stressed,Fail,Low Confidence
+Anthony Day,ML Engineer,75.12,Nervous,Pass,None
+Christian Estes,Data Scientist,54.93,Neutral,Fail,Time Management Issue
+Mary Henderson,Python Developer,58.13,Happy,Fail,Lack of Technical Knowledge
+Katrina Duffy,Data Analyst,50.51,Happy,Fail,Low Confidence
+Paul Faulkner,Data Analyst,31.45,Neutral,Fail,Incorrect Answer
+Stephanie Elliott DVM,Data Scientist,83.69,Nervous,Pass,None
+Jackson Dunn,Data Analyst,87.15,Happy,Pass,None
+Karen Holder,Data Analyst,71.06,Confident,Pass,None
+Shawn Martinez,ML Engineer,48.11,Confident,Fail,Poor Communication
+Paul Cox,Data Scientist,35.89,Stressed,Fail,Lack of Technical Knowledge
+Jason Li,ML Engineer,82.92,Confident,Pass,None
+Joanna Payne,Python Developer,73.52,Confident,Pass,None
+Amy Powers,ML Engineer,33.42,Neutral,Fail,Lack of Technical Knowledge
+Kendra Perry,Data Scientist,82.23,Happy,Pass,None
+Thomas Davis,Data Analyst,32.81,Confident,Fail,Low Confidence
+Thomas Cervantes,Data Scientist,40.23,Neutral,Fail,Poor Communication
+Jeffrey Hernandez,ML Engineer,57.72,Stressed,Fail,Low Confidence
+Matthew Morgan,Data Analyst,90.07,Neutral,Pass,None
+Cheryl Torres,Data Analyst,39.64,Happy,Fail,Time Management Issue
+Jennifer Taylor,Python Developer,72.33,Nervous,Pass,None
+Tammy Wallace,Data Analyst,68.0,Happy,Pass,None
+Belinda Beck,ML Engineer,38.8,Happy,Fail,Lack of Technical Knowledge
+Perry Anderson,Python Developer,48.09,Happy,Fail,Incorrect Answer
+Scott Duarte,Python Developer,68.22,Happy,Pass,None
+Eric Marks,Data Analyst,43.46,Nervous,Fail,Incorrect Answer
+Alicia Taylor,Data Analyst,43.18,Nervous,Fail,Time Management Issue
+Joseph Johnson,Python Developer,49.78,Stressed,Fail,Incorrect Answer
+Amanda West,Data Analyst,86.08,Nervous,Pass,None
+Robert Davis,ML Engineer,30.05,Nervous,Fail,Low Confidence
+Robert Rodriguez,Data Analyst,65.88,Nervous,Pass,None
+Kristina Martinez,ML Engineer,57.88,Stressed,Fail,Time Management Issue
+Joshua Flores,ML Engineer,91.97,Nervous,Pass,None
+Shelby Ryan,Data Analyst,89.73,Nervous,Pass,None
+Cindy Martin MD,Python Developer,82.52,Confident,Pass,None
+Mark Bailey,Data Scientist,65.9,Stressed,Pass,None
+Peter Ray,Python Developer,33.36,Stressed,Fail,Lack of Technical Knowledge
+Gina Jones,ML Engineer,51.56,Nervous,Fail,Low Confidence
+Laurie Gomez,Data Analyst,76.19,Happy,Pass,None
+Mary Ritter,ML Engineer,76.07,Confident,Pass,None
+Julie Campbell,Data Analyst,57.79,Happy,Fail,Incorrect Answer
+Jennifer Vasquez,ML Engineer,75.78,Confident,Pass,None
+Dr. Jennifer Fuentes,Python Developer,85.33,Nervous,Pass,None
+David Smith,Data Scientist,55.03,Happy,Fail,Low Confidence
+Larry Harvey,Data Scientist,52.36,Confident,Fail,Low Confidence
+Kimberly Hernandez,Data Analyst,88.02,Stressed,Pass,None
+Carrie Harris,Python Developer,57.89,Happy,Fail,Time Management Issue
+Brandon White,Data Scientist,82.52,Confident,Pass,None
+Stephanie Smith,ML Engineer,59.52,Stressed,Fail,Poor Communication
+Stephanie Richard,Data Analyst,51.93,Neutral,Fail,Low Confidence
+Sandra Manning,Python Developer,36.82,Nervous,Fail,Low Confidence
+Charlotte Jenkins,Data Scientist,75.53,Stressed,Pass,None
+Lauren Sanders,ML Engineer,76.23,Confident,Pass,None
+Deborah Drake,Data Scientist,45.39,Neutral,Fail,Lack of Technical Knowledge
+Jamie Mosley,Data Scientist,93.43,Stressed,Pass,None
+James Le,Data Analyst,74.22,Happy,Pass,None
+Heather Jones,Data Scientist,35.89,Neutral,Fail,Incorrect Answer
+Kerry Clark,Data Scientist,66.76,Nervous,Pass,None
+Paul Gonzalez,ML Engineer,47.62,Neutral,Fail,Poor Communication
+Stephanie Sanchez,Python Developer,93.49,Stressed,Pass,None
+James Marshall,Data Analyst,51.41,Happy,Fail,Lack of Technical Knowledge
+Angela Mercado,Data Analyst,42.97,Happy,Fail,Time Management Issue
+Maria Mcconnell,Data Scientist,85.4,Neutral,Pass,None
+Reginald Santos,Python Developer,92.53,Confident,Pass,None
+Robin Williams,Data Scientist,45.03,Neutral,Fail,Incorrect Answer
+Samantha Alvarado,ML Engineer,79.16,Nervous,Pass,None
+Dawn Smith,Data Analyst,90.35,Neutral,Pass,None
+Timothy Contreras,Data Analyst,90.49,Neutral,Pass,None
+Rhonda Johnson,Data Analyst,72.8,Stressed,Pass,None
+Kevin Waters,Data Scientist,48.38,Stressed,Fail,Time Management Issue
+Sean Perez,ML Engineer,43.38,Neutral,Fail,Lack of Technical Knowledge
+Sylvia Kent,Data Analyst,67.5,Confident,Pass,None
+Tanya Smith,ML Engineer,78.35,Neutral,Pass,None
+Melissa Orr,Python Developer,36.85,Confident,Fail,Lack of Technical Knowledge
+Derek Cruz,Python Developer,66.7,Confident,Pass,None
+Amy Cortez,Data Scientist,61.45,Happy,Pass,None
+Vincent Santana,Data Analyst,55.85,Neutral,Fail,Lack of Technical Knowledge
+Teresa Rogers,Python Developer,53.91,Nervous,Fail,Low Confidence
+Darren Rodriguez,Python Developer,68.87,Confident,Pass,None
+Jacqueline Young,ML Engineer,56.7,Nervous,Fail,Poor Communication
+Samuel Sanchez,Data Analyst,94.88,Neutral,Pass,None
+Jacob Collins,Python Developer,79.09,Neutral,Pass,None
+Krystal Adkins,Data Analyst,38.04,Neutral,Fail,Incorrect Answer
+Jeffrey Ferguson,Python Developer,54.63,Confident,Fail,Time Management Issue
+Monique Moore,Data Scientist,42.09,Confident,Fail,Low Confidence
+Brian Sellers,Python Developer,64.8,Confident,Pass,None
+Alicia Gutierrez,ML Engineer,59.11,Neutral,Fail,Incorrect Answer
+Joshua Fletcher,Data Scientist,87.18,Neutral,Pass,None
+Danielle Garza,Python Developer,91.2,Happy,Pass,None
+Joseph Carter,ML Engineer,71.67,Neutral,Pass,None
+Christopher Coleman,ML Engineer,74.24,Stressed,Pass,None
+Scott Allen,ML Engineer,71.91,Stressed,Pass,None
+Elizabeth Nichols,ML Engineer,75.37,Neutral,Pass,None
+Timothy Allison,ML Engineer,60.78,Confident,Pass,None
+Linda Johnson,Python Developer,60.79,Happy,Pass,None
+Terry Gamble,Python Developer,58.93,Confident,Fail,Incorrect Answer
+Misty Cobb,Data Analyst,81.45,Nervous,Pass,None
+Kristen Harris,ML Engineer,91.96,Happy,Pass,None
+Fernando Miller,ML Engineer,66.6,Stressed,Pass,None
+Mark Reynolds,Data Analyst,69.12,Nervous,Pass,None
+Lori Meyers,ML Engineer,37.58,Neutral,Fail,Lack of Technical Knowledge
+Lynn Wilkins,Data Analyst,50.17,Confident,Fail,Time Management Issue
+Patricia Foster,Data Scientist,57.45,Nervous,Fail,Time Management Issue
+Amanda Ward,Data Analyst,35.6,Nervous,Fail,Incorrect Answer
+Nancy Baker,Data Scientist,76.08,Happy,Pass,None
+Brenda Hill,Data Scientist,30.75,Stressed,Fail,Poor Communication
+Jessica Martin,Data Analyst,81.88,Nervous,Pass,None
+Albert Anthony,Data Scientist,51.87,Confident,Fail,Poor Communication
+Henry Oneal,Python Developer,79.69,Happy,Pass,None
+Stephen George,Python Developer,59.21,Neutral,Fail,Lack of Technical Knowledge
+Phillip Smith,Python Developer,86.36,Confident,Pass,None
+Dr. Tammy Henry,Python Developer,65.33,Neutral,Pass,None
+Brandon Powers,Data Analyst,91.64,Happy,Pass,None
+Charles Durham,Data Analyst,45.46,Nervous,Fail,Lack of Technical Knowledge
+Alexander Mills,Python Developer,50.44,Happy,Fail,Incorrect Answer
+Tyler Walker,Python Developer,81.78,Happy,Pass,None
+Nicholas Coffey,Data Scientist,80.71,Neutral,Pass,None
+Chris Cole,ML Engineer,90.25,Confident,Pass,None
+Brittany Brown,ML Engineer,60.71,Nervous,Pass,None
+Lee Gonzalez,Data Scientist,79.28,Stressed,Pass,None
+Heather Hodges,Data Scientist,79.67,Happy,Pass,None
+Laurie Williamson,Data Analyst,68.4,Confident,Pass,None
+Heidi Mcneil,Data Analyst,49.42,Nervous,Fail,Poor Communication
+Randy Cline,Python Developer,43.9,Neutral,Fail,Time Management Issue
+Douglas Preston,Data Scientist,71.89,Neutral,Pass,None
+Barbara Reyes,Python Developer,84.02,Neutral,Pass,None
+Christine Zimmerman,Python Developer,60.16,Stressed,Pass,None
+Elizabeth Jackson,Data Analyst,48.99,Happy,Fail,Time Management Issue
+Jessica Fox,Python Developer,89.24,Nervous,Pass,None
+Miss Kendra David DDS,ML Engineer,40.09,Nervous,Fail,Incorrect Answer
+Scott Duncan,Data Analyst,86.52,Nervous,Pass,None
+April Parker,Data Analyst,62.24,Stressed,Pass,None
+Scott Lee,Python Developer,59.77,Nervous,Fail,Lack of Technical Knowledge
+Timothy Lopez,Data Scientist,79.73,Happy,Pass,None
+Kayla Bradley,Python Developer,80.37,Nervous,Pass,None
+Michael Cooper,ML Engineer,31.13,Happy,Fail,Time Management Issue
+Cody Serrano,Python Developer,81.0,Happy,Pass,None
+Robin Wright,ML Engineer,92.27,Happy,Pass,None
+Nathan Higgins,ML Engineer,60.15,Nervous,Pass,None
+William Carter,Data Scientist,36.34,Neutral,Fail,Low Confidence
+Larry Rose,ML Engineer,86.32,Stressed,Pass,None
+Ashley Williamson,Python Developer,31.06,Happy,Fail,Low Confidence
+Ricardo Clements,ML Engineer,52.39,Confident,Fail,Low Confidence
+Victoria Vincent,Data Scientist,69.92,Happy,Pass,None
+Willie Blankenship,Python Developer,77.97,Happy,Pass,None
+Jacqueline Burton,Python Developer,72.53,Nervous,Pass,None
+Linda Hill,ML Engineer,45.1,Happy,Fail,Time Management Issue
+Shelley Pratt,Data Analyst,71.74,Happy,Pass,None
+Tanya Hart,Data Scientist,51.49,Happy,Fail,Time Management Issue
+Tammy Shaw,Data Analyst,48.11,Confident,Fail,Low Confidence
+Peter Barrett Jr.,Data Scientist,73.86,Confident,Pass,None
+Wanda Hayes,ML Engineer,81.71,Stressed,Pass,None
+Darrell Ramos,Python Developer,75.65,Neutral,Pass,None
+Scott Haynes Jr.,Data Analyst,74.12,Confident,Pass,None
+Kelli Rodriguez,Data Analyst,74.58,Confident,Pass,None
+Sean Brewer,Data Scientist,50.4,Happy,Fail,Poor Communication
+Elizabeth Allen,Python Developer,85.21,Nervous,Pass,None
+Anthony Farrell,Data Analyst,82.18,Stressed,Pass,None
+Justin Butler,Data Scientist,33.77,Neutral,Fail,Incorrect Answer
+Deanna Bush,ML Engineer,62.18,Nervous,Pass,None
+Christopher Hickman,Python Developer,35.48,Happy,Fail,Lack of Technical Knowledge
+Mario Williams,Python Developer,75.85,Neutral,Pass,None
+Joe Robinson,Data Scientist,55.27,Confident,Fail,Lack of Technical Knowledge
+Karen Robinson,Data Analyst,73.63,Neutral,Pass,None
+Michael Montes,Data Analyst,70.46,Happy,Pass,None
+Russell Cooper,ML Engineer,34.53,Happy,Fail,Time Management Issue
+Mr. Max Stewart,ML Engineer,85.87,Nervous,Pass,None
+Connie Wilkins,Python Developer,44.14,Stressed,Fail,Lack of Technical Knowledge
+Jason Mata,Data Scientist,59.25,Stressed,Fail,Time Management Issue
+Susan Brown,Python Developer,90.88,Confident,Pass,None
+Donna Barajas,Data Scientist,53.69,Stressed,Fail,Low Confidence
+Mr. Nathaniel Smith,Python Developer,66.54,Happy,Pass,None
+Jordan Johnson,ML Engineer,31.44,Neutral,Fail,Poor Communication
+David Martin,Data Analyst,83.47,Nervous,Pass,None
+Tiffany Jones,Python Developer,68.62,Confident,Pass,None
+Jennifer Rivera,Python Developer,63.05,Confident,Pass,None
+Jamie Dorsey,Data Analyst,92.63,Nervous,Pass,None
+Randy Sims,ML Engineer,32.94,Stressed,Fail,Incorrect Answer
+Ryan Jimenez Jr.,ML Engineer,42.41,Stressed,Fail,Poor Communication
+Hannah King,ML Engineer,71.42,Stressed,Pass,None
+Douglas Taylor,ML Engineer,54.23,Neutral,Fail,Low Confidence
+Kevin Moss,Data Scientist,38.26,Stressed,Fail,Low Confidence
+Brandy Galvan,ML Engineer,81.43,Nervous,Pass,None
+Jonathan Garcia,ML Engineer,56.93,Happy,Fail,Poor Communication
+Stephanie Wilson,ML Engineer,30.27,Confident,Fail,Incorrect Answer
+Courtney Robinson,Data Scientist,52.09,Nervous,Fail,Lack of Technical Knowledge
+Kyle Gonzalez,Data Scientist,62.53,Nervous,Pass,None
+Tammie Smith,Python Developer,57.55,Happy,Fail,Lack of Technical Knowledge
+Melissa Anderson,ML Engineer,63.1,Neutral,Pass,None
+Tara Thompson,ML Engineer,75.52,Nervous,Pass,None
+Ethan Holland,Python Developer,63.91,Neutral,Pass,None
+Kathryn Gonzalez,ML Engineer,43.84,Nervous,Fail,Lack of Technical Knowledge
+Keith Crawford DDS,Data Analyst,76.58,Nervous,Pass,None
+Erin Johnson,Data Analyst,75.97,Neutral,Pass,None
+Ruben Lam,ML Engineer,78.63,Stressed,Pass,None
+Sean Barrett,Data Scientist,74.56,Nervous,Pass,None
+Brandon Taylor,Python Developer,67.28,Happy,Pass,None
+Brian Woods,Data Scientist,61.32,Neutral,Pass,None
+James Thompson,Data Analyst,30.12,Confident,Fail,Low Confidence
+Allison Bennett,Data Analyst,56.53,Confident,Fail,Lack of Technical Knowledge
+Jacob Hobbs,Data Scientist,92.09,Confident,Pass,None
+Christopher Davis,ML Engineer,44.46,Stressed,Fail,Low Confidence
+Amy Murray,Data Scientist,70.33,Confident,Pass,None
+Mark Gomez MD,Python Developer,58.5,Stressed,Fail,Incorrect Answer
+Teresa Brown,ML Engineer,63.35,Nervous,Pass,None
+John Hamilton,Data Scientist,55.06,Confident,Fail,Low Confidence
+Casey Bowman,Data Scientist,72.55,Neutral,Pass,None
+Tyler Edwards,ML Engineer,35.8,Neutral,Fail,Lack of Technical Knowledge
+Maria Martinez,ML Engineer,74.29,Confident,Pass,None
+Brandon Howard,ML Engineer,56.81,Neutral,Fail,Low Confidence
+Jesse Vaughn,Python Developer,42.86,Stressed,Fail,Low Confidence
+Keith Durham,Python Developer,68.25,Stressed,Pass,None
+Emily Keller,ML Engineer,33.44,Confident,Fail,Incorrect Answer
+Rebecca Ball,Data Scientist,91.04,Confident,Pass,None
+Lacey Bradley,Python Developer,70.49,Nervous,Pass,None
+Samantha Gonzalez,Data Analyst,68.88,Neutral,Pass,None
+Martin Simpson,Data Analyst,43.81,Neutral,Fail,Poor Communication
+Dr. Jesse Taylor,Data Analyst,59.06,Neutral,Fail,Lack of Technical Knowledge
+Erika Delgado,Data Analyst,76.96,Happy,Pass,None
+Michael Jones,Data Analyst,48.84,Stressed,Fail,Poor Communication
+Jonathan Ford,ML Engineer,35.03,Happy,Fail,Poor Communication
+James Haney MD,Python Developer,49.83,Nervous,Fail,Lack of Technical Knowledge
+Sarah Baird,ML Engineer,75.66,Neutral,Pass,None
+Elizabeth Little,Python Developer,60.18,Stressed,Pass,None
+Jeremy Joyce,ML Engineer,33.11,Neutral,Fail,Lack of Technical Knowledge
+Michael Miller,Data Scientist,84.94,Neutral,Pass,None
+Connie Hernandez,Python Developer,59.4,Nervous,Fail,Time Management Issue
+Michael Young,Python Developer,60.92,Neutral,Pass,None
+Mr. Brian Stephens,Data Analyst,73.16,Nervous,Pass,None
+Karen Mendoza,Data Scientist,77.51,Happy,Pass,None
+Cassandra Kelly,Data Scientist,66.78,Confident,Pass,None
+Danielle Russell,Data Analyst,79.7,Confident,Pass,None
+Joseph Davis,Data Scientist,36.56,Happy,Fail,Incorrect Answer
+Jennifer Jones,Python Developer,31.11,Happy,Fail,Lack of Technical Knowledge
+Stacey Beasley,Python Developer,80.79,Nervous,Pass,None
+Jennifer Moreno,ML Engineer,35.09,Happy,Fail,Low Confidence
+Belinda Duncan,Data Scientist,81.94,Happy,Pass,None
+Joshua Carter,ML Engineer,38.21,Happy,Fail,Incorrect Answer
+Paul Watson,Python Developer,39.39,Happy,Fail,Lack of Technical Knowledge
+Taylor Phillips,Data Analyst,41.42,Neutral,Fail,Poor Communication
+Tyler Thomas,ML Engineer,47.91,Stressed,Fail,Poor Communication
+Danielle Thomas,Data Scientist,90.77,Confident,Pass,None
+Marc Stevens,Python Developer,83.4,Happy,Pass,None
+Tyler Jones,ML Engineer,57.45,Happy,Fail,Incorrect Answer
+Thomas Davis,Python Developer,81.75,Neutral,Pass,None
+Stacey Brown,Python Developer,63.25,Confident,Pass,None
+Jared Fisher,Data Scientist,87.9,Happy,Pass,None
+Anthony Robinson,ML Engineer,58.49,Happy,Fail,Poor Communication
+Jacob Fox,Data Scientist,59.62,Neutral,Fail,Lack of Technical Knowledge
+William Beard,Python Developer,40.7,Stressed,Fail,Poor Communication
+Joshua Manning,Data Analyst,93.01,Confident,Pass,None
+Robin Francis,Data Scientist,86.82,Confident,Pass,None
+John Hoffman,Python Developer,87.89,Stressed,Pass,None
+Tara Dyer,Python Developer,45.68,Stressed,Fail,Poor Communication
+Elizabeth Macias,ML Engineer,50.6,Happy,Fail,Poor Communication
+Deanna Powell,ML Engineer,55.76,Confident,Fail,Poor Communication
+Danielle Norman,Python Developer,51.54,Confident,Fail,Lack of Technical Knowledge
+Lance Cannon,Python Developer,92.93,Happy,Pass,None
+Janice Brown,ML Engineer,75.78,Neutral,Pass,None
+Jacob Woods,Data Scientist,84.73,Happy,Pass,None
+Michael Oliver,Data Analyst,37.51,Confident,Fail,Time Management Issue
+Daniel Mason,ML Engineer,62.41,Confident,Pass,None
+Ashley Robinson,ML Engineer,39.22,Neutral,Fail,Lack of Technical Knowledge
+Cody Delgado,Python Developer,52.86,Stressed,Fail,Low Confidence
+Sarah Meyers,Data Scientist,68.73,Confident,Pass,None
+Mr. Kevin Morrow DDS,Data Scientist,94.23,Nervous,Pass,None
+Margaret Miller,Data Scientist,56.01,Happy,Fail,Low Confidence
+Jacob Sharp,Data Scientist,35.23,Stressed,Fail,Incorrect Answer
+Ariana Barry,Python Developer,92.17,Confident,Pass,None
+Louis Guzman,Data Analyst,78.55,Stressed,Pass,None
+Angela Osborne,Python Developer,42.43,Confident,Fail,Time Management Issue
+Bryan Gomez,Data Analyst,45.72,Confident,Fail,Poor Communication
+Megan Campbell,Python Developer,40.31,Stressed,Fail,Lack of Technical Knowledge
